@@ -1,0 +1,137 @@
+{
+  "nav": {
+    "monitoring": "Monitoring",
+    "cleanup": "Cleanup",
+    "gaming": "Gaming Center",
+    "compare": "Compare",
+    "download": "Download"
+  },
+  "hero": {
+    "title": "Full Control Over Your Computer",
+    "subtitle": "Real-time CPU, RAM and GPU monitoring, deep system cleanup, gaming center and utilities — all in one premium app for Windows.",
+    "downloadBtn": "Download Free",
+    "demoBtn": "Watch Demo",
+    "downloads": "downloads",
+    "free": "Free",
+    "noAds": "No Ads",
+    "safe": "100% Safe",
+    "windows": "Windows 10 / 11",
+    "version": "Version 1.0.0",
+    "updated": "Updated March 18, 2026"
+  },
+  "stats": {
+    "cpu": "CPU Monitoring",
+    "ram": "RAM Optimization",
+    "gpu": "GPU Temperature",
+    "disk": "SSD/HDD Cleanup",
+    "network": "Network Speed",
+    "security": "100% Safe"
+  },
+  "monitoring": {
+    "title": "Real-Time Monitoring",
+    "subtitle": "CPU, RAM, GPU, disks and temperatures — all metrics update every 2 seconds",
+    "more": "Learn More",
+    "cpuLoad": "CPU Load",
+    "ramUsage": "RAM Usage",
+    "gpuTemp": "GPU Temperature",
+    "diskC": "Disk C:",
+    "modal": {
+      "title": "Monitoring — Full Details",
+      "cpu": "Processor",
+      "cpuDesc": "Model, core count, frequency, temperature, real-time load with historical graph",
+      "ram": "Memory",
+      "ramDesc": "Timings, occupied slots, voltage, frequency and capacity per channel",
+      "gpu": "Graphics Card",
+      "gpuDesc": "Model, VRAM, core/memory frequency, temperature, fan speed",
+      "disk": "Disks",
+      "diskDesc": "S.M.A.R.T. diagnostics, temperature, health, read/write speed",
+      "net": "Network",
+      "netDesc": "Adapter, IP address, download/upload speed, ping, traffic",
+      "battery": "Battery",
+      "batteryDesc": "Wear level, charge cycles, current capacity, remaining time"
+    }
+  },
+  "cleanup": {
+    "title": "Deep System Cleanup",
+    "subtitle": "Remove gigabytes of junk — temp files, browser cache, logs and recycle bin",
+    "more": "Learn More",
+    "found": "Junk found",
+    "temp": "Temp Files",
+    "cache": "Browser Cache",
+    "logs": "System Logs",
+    "cleanBtn": "Clean Now",
+    "modal": {
+      "title": "Cleanup — Full Details",
+      "tempFiles": "Windows Temp Files",
+      "tempFilesDesc": "Temp, Prefetch, Recent, update folders — safe removal without risk to the system",
+      "browserCache": "Browser Cache",
+      "browserCacheDesc": "Chrome, Firefox, Edge, Opera, Brave — cache, cookies, browsing history cleanup",
+      "recycle": "Recycle Bin & Clipboard",
+      "recycleDesc": "Complete cleanup of recycle bin on all drives and Windows clipboard",
+      "registry": "Registry Cleanup",
+      "registryDesc": "Remove broken keys with automatic restore point creation",
+      "startup": "Startup",
+      "startupDesc": "Manage startup programs and Windows services for faster boot"
+    }
+  },
+  "gaming": {
+    "title": "Gaming Center",
+    "subtitle": "Scan Steam, Epic and GOG — launch games with system optimization in one click",
+    "more": "Learn More",
+    "play": "Play",
+    "gameMode": "Game Mode",
+    "gameModeDesc": "Disables notifications, closes background processes, boosts game priority",
+    "modal": {
+      "title": "Gaming Center — Full Details",
+      "scan": "Auto Scan",
+      "scanDesc": "Automatic detection of installed games from Steam, Epic Games Store, GOG Galaxy and other launchers",
+      "optimize": "Optimization",
+      "optimizeDesc": "Memory cleanup, closing unnecessary processes, power plan tuning for maximum performance",
+      "overlay": "Overlay",
+      "overlayDesc": "Display FPS, CPU/GPU temperature, RAM usage in-game — customizable overlay",
+      "capture": "Recording & Screenshots",
+      "captureDesc": "Gameplay video recording and instant screenshots via hotkey with auto-save"
+    }
+  },
+  "control": {
+    "title": "Everything Your PC Needs",
+    "subtitle": "Six powerful modules in one application",
+    "items": {
+      "monitoring": "Monitoring",
+      "cleanup": "Cleanup",
+      "gaming": "Gaming Center",
+      "utilities": "Utilities",
+      "themes": "Themes",
+      "security": "Security"
+    },
+    "downloadBtn": "Download Free"
+  },
+  "compare": {
+    "title": "Why Choose ProjectSystemX",
+    "subtitle": "Comparison with popular alternatives",
+    "feature": "Feature",
+    "features": {
+      "monitoring": "CPU/RAM/GPU Monitoring",
+      "cleanup": "Deep Cleanup",
+      "gaming": "Gaming Center",
+      "overlay": "Game Overlay",
+      "registry": "Registry Cleanup",
+      "free": "Free",
+      "noAds": "No Ads",
+      "modern": "Modern UI"
+    },
+    "full": "Full",
+    "yes": "Yes",
+    "no": "No",
+    "partial": "Partial",
+    "paid": "Paid",
+    "basic": "Basic",
+    "limited": "Limited"
+  },
+  "footer": {
+    "description": "PC monitoring, cleanup and optimization",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
